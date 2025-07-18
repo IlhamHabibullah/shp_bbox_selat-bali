@@ -84,7 +84,7 @@ plot(bbox_selat_bali)
 
 ## 📄 Lisensi
 
-[Tentukan lisensi yang sesuai - misalnya MIT, GPL, atau lisensi khusus]
+
 
 ## 🤝 Kontribusi
 
@@ -92,7 +92,7 @@ Silakan buat issue atau pull request jika Anda ingin berkontribusi pada pengemba
 
 ## 📧 Kontak
 
-[Tambahkan informasi kontak atau maintainer]
+[Ilham Habibullah]
 
 ---
 
